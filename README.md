@@ -16,18 +16,14 @@
 
 COLUMN INFORMATION:
 
-InvoiceNo: = Invoice number. A 6-digit integer uniquely assigned to each transaction. If this code starts with the letter 'c', it means cancel.
+| Field       | Description                                                                                                 |
+|-------------|-------------------------------------------------------------------------------------------------------------|
+| InvoiceNo   | Invoice number. A 6-digit integer uniquely assigned to each transaction. If starts with 'c', it's a cancel. |
+| StockCode   | Product code. A 5-digit integer uniquely assigned to each different product.                                |
+| Description | Product name.                                                                                               |
+| Quantity    | Quantity of each product (item) per transaction. Numerical data.                                            |
+| InvoiceDate | Invoice Date and time. Numeric data, the day and time each transaction was created.                         |
+| UnitPrice   | Unit price. Numerical data, product price per unit in pounds sterling.                                      |
+| CustomerID  | Customer number. A 5-digit integer assigned individually to each customer.                                  |
+| Country     | Country name. Name of the country of residence of each client.                                              |
 
-StockCode: = Product code. A 5-digit integer uniquely assigned to each different product.
-
-Description: = Product name
-
-Quantity: = Quantity of each product (item) per transaction. numerical data.
-
-InvoiceDate: = Invoice Date and time. Numeric data, the day and time each transaction was created.
-
-UnitPrice: = Unit price. Numerical data, product price per unit in pounds sterling.
-
-CustomerID: = Customer number. A 5-digit integer assigned individually to each customer.
-
-Country: = Country name. Name of the country of residence of each client.
