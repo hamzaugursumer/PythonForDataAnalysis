@@ -10,9 +10,9 @@
 
 **Understanding Customer Segment Dynamics through Data Analysis**
 
-The aim of this data analysis is to shed light on the evolving dynamics of customer segments. The dataset encompasses customer behaviors, product preferences, and trends over time within the business. Through the analysis of this data, we aim to identify distinct customer groups, popular products, and changes over time. The outcomes of this study could contribute to refining business strategies and making informed decisions.
+* **The aim of this data analysis is to shed light on the evolving dynamics of customer segments. The dataset encompasses customer behaviors, product preferences, and trends over time within the business. Through the analysis of this data, we aim to identify distinct customer groups, popular products, and changes over time. The outcomes of this study could contribute to refining business strategies and making informed decisions.**
 
-This report presents the data analysis conducted to elucidate fundamental characteristics and shifting trends within the wholesale customer segment. It begins with an overview of the dataset's general structure and contents, followed by a focus on key findings such as customer segmentation and popular product analysis. The results could provide deeper insights for the enhancement and optimization of business strategies.
+* **This report presents the data analysis conducted to elucidate fundamental characteristics and shifting trends within the wholesale customer segment. It begins with an overview of the dataset's general structure and contents, followed by a focus on key findings such as customer segmentation and popular product analysis. The results could provide deeper insights for the enhancement and optimization of business strategies.**
 
 COLUMN INFORMATION:
 
