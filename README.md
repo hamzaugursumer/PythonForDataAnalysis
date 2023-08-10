@@ -6,9 +6,9 @@
 
 * http://archive.ics.uci.edu/dataset/352/online+retail
 
-INFORMATION & FEATURES ABOUT THE DATASET
+# :pushpin: INFORMATION & FEATURES ABOUT THE DATASET
 
-Understanding Customer Segment Dynamics through Data Analysis
+**Understanding Customer Segment Dynamics through Data Analysis**
 
 The aim of this data analysis is to shed light on the evolving dynamics of customer segments. The dataset encompasses customer behaviors, product preferences, and trends over time within the business. Through the analysis of this data, we aim to identify distinct customer groups, popular products, and changes over time. The outcomes of this study could contribute to refining business strategies and making informed decisions.
 
