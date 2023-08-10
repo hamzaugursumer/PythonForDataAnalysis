@@ -1,4 +1,4 @@
-# :pushpin: **ONLINE RETAIL**
+# :pushpin: **Online Retail**
 ![img](https://miro.medium.com/v2/resize:fit:922/1*DKJLlxxjnyTHDknS_xJo_g.jpeg)
 
 # :pushpin: INTRODUCTION
