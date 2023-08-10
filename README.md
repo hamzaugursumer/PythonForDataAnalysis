@@ -1,5 +1,5 @@
 # :pushpin: **ONLINE RETAIL**
-![img](https://8weeksqlchallenge.com/images/8-week-sql-challenge.png)
+![img](https://miro.medium.com/v2/resize:fit:922/1*DKJLlxxjnyTHDknS_xJo_g.jpeg)
 
 # :pushpin: INTRODUCTION
 
