@@ -1,6 +1,6 @@
 # :pushpin: INTRODUCTION
 
-* This data is a UK based and registered store. It is a transnational dataset containing all transactions that took place between 2010 and 2011. The company mainly sells gifts for all occasions. Many of the company's customers are wholesalers.
+* **This data is a UK based and registered store. It is a transnational dataset containing all transactions that took place between 2010 and 2011. The company mainly sells gifts for all occasions. Many of the company's customers are wholesalers.**
 
 # :pushpin: DATASET;
 
