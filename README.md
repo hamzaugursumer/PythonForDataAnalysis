@@ -14,7 +14,7 @@
 
 * **This report presents the data analysis conducted to elucidate fundamental characteristics and shifting trends within the wholesale customer segment. It begins with an overview of the dataset's general structure and contents, followed by a focus on key findings such as customer segmentation and popular product analysis. The results could provide deeper insights for the enhancement and optimization of business strategies.**
 
-COLUMN INFORMATION:
+* **COLUMN INFORMATION:**
 
 | Field       | Description                                                                                                 |
 |-------------|-------------------------------------------------------------------------------------------------------------|
