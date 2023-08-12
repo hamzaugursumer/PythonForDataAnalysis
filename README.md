@@ -30,3 +30,5 @@
 | CustomerID  | Customer number. A 5-digit integer assigned individually to each customer.                                  |
 | Country     | Country name. Name of the country of residence of each client.                                              |
 
+## Note:
+* I believe there might be minor errors or mistakes in this Python data analysis project I've shared on GitHub. If you notice any errors or inaccuracies, could you please provide me with feedback? This way, I can identify my own mistakes and improve the project. I'm looking forward to your contributions! Thank you.
